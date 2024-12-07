@@ -6,7 +6,6 @@ import json
 import os
 
 
-DEVELOPER_KEY = "AIzaSyAS4VHRg5og3aUV-wAI9zqYMAnnbtzOxpM"
 api_service_name = "youtube"
 api_version = "v3"
 
